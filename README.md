@@ -11,6 +11,7 @@ Balance inquiry
 Transaction logging
 
 🔧 Technologies Used:
+
 Java 17+
 
 Spring Boot
@@ -37,6 +38,7 @@ Modular layered architecture (Controller → Service → Repository)
 Exception handling and validation
 
 ✅ How to Run:
+
 Clone the repo
 
 Update application.properties with your MySQL credentials
